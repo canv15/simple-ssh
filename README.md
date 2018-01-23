@@ -1,6 +1,8 @@
 **Note:** *I really don't work on this project anymore. It's still fully functional, I'm just not interested in working on it anymore. If you post an issue, I might respond and I might not. If you submit a pull request, I'll most likely accept it. Hopefully it continues to help people around the world.* :earth_americas:
 
 # simple-ssh
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fsimple-ssh.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fsimple-ssh?ref=badge_shield)
+
 
 A wrapper for the [ssh2 client module by Brian White][1] which makes it easier to run a sequence of commands over SSH.
 
@@ -263,3 +265,7 @@ ssh
   [1]: https://github.com/mscdex/ssh2
   [2]: http://nodejs.org
   [3]: https://github.com/alexjab
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fsimple-ssh.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fsimple-ssh?ref=badge_large)
